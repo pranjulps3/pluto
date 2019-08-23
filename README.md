@@ -14,5 +14,9 @@ At the moment of writing this I just have a vague idea of what needs to be done.
 
 The current scopes only focus on audio and notifications. Please feel free to add to the current scopes and future expansion scopes.
 
+## Ongoing discussions
+The running topics and aspects that are being worked on
+- [Architecture for Device Discovery](https://github.com/pranjulps3/pluto/wiki/%5BArchitecture%5D-Possible-Device-Discovery-Architectures)
+
 ## Colaborate
 As of now there are no proper guidelines except create a wiki of the blueprint of the system and start creating issue and working on the issues. Feel free to checkout other wiki how to and create your own for the roadmap. 
