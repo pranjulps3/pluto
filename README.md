@@ -16,6 +16,7 @@ The current scopes only focus on audio and notifications. Please feel free to ad
 
 ## Ongoing discussions
 The running topics and aspects that are being worked on
+- [Core Module Architecture](https://github.com/pranjulps3/pluto/wiki/%5BArchitecture%5D-Core-Architecture)
 - [Architecture for Device Discovery](https://github.com/pranjulps3/pluto/wiki/%5BArchitecture%5D-Possible-Device-Discovery-Architectures)
 
 ## Colaborate
